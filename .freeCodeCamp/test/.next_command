@@ -178,3 +178,7 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp postgres > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git status
+git branch
+git branch
+git add .
